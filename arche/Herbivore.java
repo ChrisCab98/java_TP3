@@ -12,7 +12,6 @@ public class Herbivore extends EtreVivant {
 
     public Herbivore(int pTaille, int pPoid, int pDureeDeVie) {
         super("Chris", "Humain");
-        // super.toString();
         taille = pTaille;
         poid = pPoid;
         dureeDeVie = pDureeDeVie;
